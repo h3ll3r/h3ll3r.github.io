@@ -1,2 +1,2 @@
 ### Todos
-- [ ] Use Github Actions to deploy pages
+- [x] Use Github Actions to deploy pages
